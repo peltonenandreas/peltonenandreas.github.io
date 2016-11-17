@@ -2,10 +2,16 @@
  * Site header
  */
 
+
+#disqus_thread {
+    background-color: white;
+    padding: 10px;
+}
+
 .back {
     background-color: white;
     margin-top: 20px;
-    opacity: 0.7;
+    padding: 10px;
 }
 
 
@@ -194,21 +200,21 @@
     color: white;
     padding: 0.2em 0.5em;
     margin-top: 100px;
-
-
-
 }
 
 span {
     display: inline-block;
     padding: 0.5em;
     border: white solid 2px;
+    text-transform: uppercase;
 }
 
 .texter {
     text-align: center;
     text-transform: uppercase;
     padding: 0.2em;
+    color: white;
+    font-size: larger;
 
 }
 
