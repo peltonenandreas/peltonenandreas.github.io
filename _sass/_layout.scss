@@ -28,7 +28,7 @@ body {
 
 .site-header {
     border-top: 0px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1px solid $grey-color-dark;
     min-height: 56px;
 
 
@@ -59,7 +59,7 @@ body {
         display: none;
     }
 
-    .page-link {
+    .page-link{
         color: white;
         line-height: $base-line-height;
 
@@ -240,6 +240,8 @@ span {
         margin-bottom: $spacing-unit;
     }
 }
+
+
 
 .post-meta {
     font-size: $small-font-size;
