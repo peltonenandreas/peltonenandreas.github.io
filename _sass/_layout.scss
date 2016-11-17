@@ -2,6 +2,7 @@
  * Site header
  */
 
+
 html {
     position: relative;
     min-height: 100%;
@@ -11,6 +12,7 @@ body {
     margin: 0 0 100px;
     padding-bottom: 25px;
 }
+
 
 #disqus_thread {
     background-color: white;
@@ -233,7 +235,6 @@ span {
     text-align: left;
     margin-left: 0;
     list-style: none;
-
 
     > li {
         margin-bottom: $spacing-unit;

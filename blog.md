@@ -21,7 +21,5 @@ permalink: /_post/
     {% endfor %}
   </ul>
 
-
-
 </div>
 
