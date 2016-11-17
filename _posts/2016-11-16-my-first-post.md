@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: What do you think of pre-compiling your CSS? Compare to regular CSS? 
        Which techniques did you use? Pros and cons?
-date: 2016-11-16
+date: 2016-11-16 08:00:00
 --- 
 <div class="back">
 <artical>

@@ -4,6 +4,7 @@ title: BLOG
 permalink: /_post/
 ---
 
+
 <div class="home">
 
   <h1 class="page-heading"><span>POSTS</span></h1>
@@ -20,7 +21,7 @@ permalink: /_post/
     {% endfor %}
   </ul>
 
-  
+
 
 </div>
 

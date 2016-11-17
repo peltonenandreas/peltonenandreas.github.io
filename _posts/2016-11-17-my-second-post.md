@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: What do you think of static site generators? What type of projects are they suitable for?
-date: 2016-11-17
+date: 2016-11-17 08:00:00
 --- 
 <div class="back">
 <artical>

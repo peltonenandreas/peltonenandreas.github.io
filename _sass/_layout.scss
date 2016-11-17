@@ -2,6 +2,15 @@
  * Site header
  */
 
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0 0 100px;
+    padding-bottom: 25px;
+}
 
 #disqus_thread {
     background-color: white;
@@ -49,7 +58,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: white;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -115,6 +124,7 @@
     position: absolute;
     bottom: 0px;
     width: 100%;
+
 }
 
 
@@ -224,6 +234,7 @@ span {
     margin-left: 0;
     list-style: none;
 
+
     > li {
         margin-bottom: $spacing-unit;
     }
@@ -237,6 +248,7 @@ span {
 .post-link {
     display: block;
     font-size: 24px;
+
 }
 
 

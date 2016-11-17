@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: What is robots.txt and how have you configure it for your site?
-date: 2016-11-17
+date: 2016-11-17 09:00:00
 --- 
 <div class="back">
 <artical>
