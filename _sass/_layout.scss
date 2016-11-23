@@ -140,10 +140,15 @@ body {
 }
 
 .contact-list,
+
 .social-media-list {
     list-style-type: none;
     margin-left: 0;
 
+}
+
+.myMail {
+    color: black;
 }
 
 .footer-col-wrapper {
@@ -250,8 +255,9 @@ span {
 }
 
 .post-link {
-    display: block;
+    display: inline-block;
     font-size: 24px;
+
 }
 
 
@@ -261,6 +267,7 @@ span {
 .post-header {
     margin-bottom: $spacing-unit;
     background: none;
+    color: white;
 
 
 }
