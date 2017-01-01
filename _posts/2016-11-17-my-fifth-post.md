@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 comments: true
 title: How did you implements comments to blog posts?
 date: 2016-11-17 11:00:00

@@ -3,7 +3,7 @@ layout: default
 title: BLOG
 permalink: /_post/
 ---
-
+    
 
 <div class="home">
 
